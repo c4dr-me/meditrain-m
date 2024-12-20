@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/c4dr-me/meditrain-ai
+[submodule "backend"]
+	path = backend
+	url = https://github.com/c4dr-me/meditrain
